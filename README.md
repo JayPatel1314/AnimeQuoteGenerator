@@ -1,5 +1,5 @@
 # AnimeQuoteGenerator
-> Using Java Script 
+> Using Java Script, HTML and CSS
 
 Yo Friends it is Anime Quote Generator Code...
 
