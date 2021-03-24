@@ -8,5 +8,5 @@ Yo Friends it is Anime Quote Generator Code...
 
 #Deploying Steps
 
-Fork this Sorce Code and Go to [repl.it](https://replit.com/)
+[Fork](https://github.com/JayPatel1314/AnimeQuoteGenerator/network/members) this Sorce Code and Go to [repl.it](https://replit.com/)
 And connect your Respiratory There 
