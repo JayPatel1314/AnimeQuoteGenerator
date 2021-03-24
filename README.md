@@ -15,3 +15,7 @@ Then type `.replit` There and ur anime quote generated Site will ready.
 If any doubt arises Then Messege me on Telegram Through [Here](https://t.me/TanjiroOp)
 
 ### Credits
+Credits of this whole project goes to [Pranav](https://github.com/Dankdel) Without him ig this project should not possible
+
+
+###Thanks For Reading❤
